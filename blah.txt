@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 blah
+=======
+<<<<<<< Updated upstream
+Edit fil
+
+=======
+blah
+>>>>>>> Stashed changes
+>>>>>>> hotfix
