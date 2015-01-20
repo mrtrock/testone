@@ -7,5 +7,6 @@ public class secondClass {
     //constructor
     public secondClass(){
 System.out.println("sdfssdfsdfdsfdfs");
+        System.out.println("sdfssdfsdfdsfdfs");
     }
 }
